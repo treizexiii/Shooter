@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter", "Shooter.csproj", "{5E19ECF2-CDE4-44D1-9B6B-FBF0ED8A232F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E19ECF2-CDE4-44D1-9B6B-FBF0ED8A232F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E19ECF2-CDE4-44D1-9B6B-FBF0ED8A232F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E19ECF2-CDE4-44D1-9B6B-FBF0ED8A232F}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{5E19ECF2-CDE4-44D1-9B6B-FBF0ED8A232F}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{5E19ECF2-CDE4-44D1-9B6B-FBF0ED8A232F}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{5E19ECF2-CDE4-44D1-9B6B-FBF0ED8A232F}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{55BEBE96-FB81-4895-8CCE-182F8C3B0FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BEBE96-FB81-4895-8CCE-182F8C3B0FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BEBE96-FB81-4895-8CCE-182F8C3B0FDD}.ExportDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BEBE96-FB81-4895-8CCE-182F8C3B0FDD}.ExportDebug|Any CPU.Build.0 = Debug|Any CPU
+		{55BEBE96-FB81-4895-8CCE-182F8C3B0FDD}.ExportRelease|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BEBE96-FB81-4895-8CCE-182F8C3B0FDD}.ExportRelease|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

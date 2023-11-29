@@ -1,0 +1,38 @@
+﻿{
+  "Left": {
+    "Keyboard": [
+      "A",
+      "Left"
+    ],
+    "Mouse": []
+  },
+  "Right": {
+    "Keyboard": [
+      "D",
+      "Right"
+    ],
+    "Mouse": []
+  },
+  "Up": {
+    "Keyboard": [
+      "W",
+      "Up"
+    ],
+    "Mouse": []
+  },
+  "Down": {
+    "Keyboard": [
+      "S",
+      "Down"
+    ],
+    "Mouse": []
+  },
+  "Shoot": {
+    "Keyboard": [
+      "Ctrl"
+    ],
+    "Mouse": [
+      "Left"
+    ]
+  }
+}

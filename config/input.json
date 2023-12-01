@@ -27,12 +27,26 @@
     ],
     "Mouse": []
   },
-  "Shoot": {
+  "PrimaryAction": {
     "Keyboard": [
       "Ctrl"
     ],
     "Mouse": [
       "Left"
     ]
+  },
+  "SecondaryAction": {
+    "Keyboard": [
+      "Shift"
+    ],
+    "Mouse": [
+      "Right"
+    ]
+  },
+  "Quit": {
+    "Keyboard": [
+      "Escape"
+    ],
+    "Mouse": []
   }
 }
